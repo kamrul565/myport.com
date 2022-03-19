@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+}
+
+h1 {
+  font-family: Sans-serif;
+  font-size: 50px;
+}
+
+h2{
+  color: #006400;
+}
+
+#image
+{
+  height: 500px;
+}
+
+#img-caption {
+  font-family: sans-serif;
+}
+
+p{
+  font-family: Arial;
+}
+
+.tribute-link {
+  font-size: 20px;
+}
